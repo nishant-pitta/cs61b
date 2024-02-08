@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db835a2b-fdf2-4039-b3a8-7e3e692fc7f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/GetEnvironmentVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/GetEnvironmentVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collatz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CheckLabConfig.executor": "Run",
+    "Application.Collatz.executor": "Run",
     "Application.GetEnvironmentVariables.executor": "Run",
     "Application.HelloNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -32,9 +33,16 @@
     "last_opened_file_path": "/Users/srinivas/Desktop/61B/cs61b-sp21-s1234/lab1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckLabConfig">
+  <component name="RunManager" selected="Application.Collatz">
     <configuration name="CheckLabConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckLabConfig" />
+      <module name="lab1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collatz" />
       <module name="lab1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collatz" />
         <item itemvalue="Application.CheckLabConfig" />
         <item itemvalue="Application.GetEnvironmentVariables" />
         <item itemvalue="Application.HelloNumbers" />
